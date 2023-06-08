@@ -33,4 +33,4 @@ The prototype is simple to understand, download it and hit index.html and just c
 a language, hit the key, then the baffle and mimic what the app returns to you. You
 will learn the basis. But no grammar. Enjoy it.
 
-
+Instead downloading it the prototype App You can try the protoype App at This Following link https://didipostman.github.io/
